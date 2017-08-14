@@ -1,0 +1,14 @@
+source "https://api.berkshelf.com"
+
+cookbook 'httpd'
+cookbook 'mysql'
+cookbook 'yum-mysql-community'
+cookbook 'php'
+cookbook 'yum-epel'
+cookbook 'apt'
+cookbook 'yum'
+cookbook 'openssl'
+cookbook 'database'
+cookbook 'tar'
+cookbook 'yum-scl'
+cookbook 'yum-remi-chef'
